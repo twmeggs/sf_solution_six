@@ -1,2 +1,2 @@
 # sf_solution_six
-Hacky poorly coded attempt at a solution for Stockfighter level 6
+Spolier: hacky poorly coded attempt at a solution for Stockfighter level 6
